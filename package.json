@@ -1,0 +1,26 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P7rox/mean_stack.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "P7rox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P7rox/mean_stack/issues"
+  },
+  "homepage": "https://github.com/P7rox/mean_stack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
